@@ -25,6 +25,23 @@ body {
   background: #64B561;
   text-shadow: none; }
 
+.strike {
+  text-decoration: line-through; }
+
+.reveal cite {
+  color: #4F853E;
+  font-size: 0.7em;
+  display: block; }
+
+.reveal .col-left {
+  float: left;
+  width: 40%;
+  padding-right: 10%; }
+
+.reveal .smaller {
+  font-size: 0.7em;
+  line-height: 1.2em; }
+
 /*********************************************
  * HEADERS
  *********************************************/
